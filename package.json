@@ -1,6 +1,6 @@
 {
   "name": "batch-limit",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "node 单机并发限制控制",
   "main": "dist/index.js",
   "files": [
